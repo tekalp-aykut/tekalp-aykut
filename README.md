@@ -48,7 +48,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img  src="https://github.com/senolcemhan98/contribution-cal-snake/blob/master/animation/snake.gif" alt="snake" />
+  <img  src="https://github.com/tekalp-aykut/contribution-cal-snake/blob/master/animation/snake.gif" alt="snake" />
   <br/><br/><br/>
 </div>
 
